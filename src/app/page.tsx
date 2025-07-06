@@ -18,11 +18,11 @@ export default function Home() {
             className="object-cover"
             data-ai-hint="travel background"
           />
-          <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white bg-black/50 p-4">
-            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl font-headline">
+          <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white p-4">
+            <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl font-headline [text-shadow:0_2px_8px_rgba(0,0,0,0.7)]">
               Explore Your Next Adventure
             </h1>
-            <p className="mt-4 max-w-2xl text-lg md:text-xl">
+            <p className="mt-4 max-w-2xl text-lg md:text-xl [text-shadow:0_1px_4px_rgba(0,0,0,0.7)]">
               Discover breathtaking destinations and create unforgettable memories.
               Your journey begins here.
             </p>
